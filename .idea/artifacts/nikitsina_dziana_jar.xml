@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nikitsina-dziana:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nikitsina_dziana_jar</output-path>
+    <root id="archive" name="nikitsina-dziana.jar">
+      <element id="module-output" name="nikitsina-dziana" />
+    </root>
+  </artifact>
+</component>
